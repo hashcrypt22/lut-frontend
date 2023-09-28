@@ -1,0 +1,11 @@
+{
+  "name": "unicourse",
+  "version": "1.0.0",
+  "description": "fintech study",
+  "main": "home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramesh Karki",
+  "license": "ISC"
+}
