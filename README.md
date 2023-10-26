@@ -1,3 +1,5 @@
+# Name of person doing the task: Ramesh Karki
+
 # blog-frontend
 This repository contains the task solution for the course "Software Development Skills: Front-End 2023-24" organized by LUT University.
 
